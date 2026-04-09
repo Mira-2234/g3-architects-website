@@ -241,9 +241,10 @@
   align-items: center;
   justify-content: center;
   padding: 25px 270px;
-  margin-right: 240px;
+  text-align: center;
+  /* margin-right: 240px;
   margin-left: 240px;
-  margin-bottom: 216px;
+  margin-bottom: 216px; */
 }
 /* responsive media query */
 @media screen and (max-width: 576px) {
